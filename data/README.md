@@ -2,7 +2,7 @@
 
 This folder holds the authentic raw and processed datasets used in the **County-Level Maize (Corn) Grain Yield Prediction** PBL project across 9 US Corn Belt states (`IA`, `IL`, `IN`, `MN`, `MO`, `NE`, `OH`, `SD`, `WI`) for `2002–2025` (with `2026` kept unlabeled).
 
-See [data_manifest.csv](data_manifest.csv) for the full file-by-file inventory, SHA-256 checksums, sizes, licensing terms, and hosting status.
+See [data_manifest.csv](data_manifest.csv) for the full file-by-file inventory, SHA-256 checksums, sizes, licensing terms, and hosting status, and [raw_url_manifest.csv](raw_url_manifest.csv) for verified direct GitHub Raw / LFS download URLs.
 
 ## Folder Structure
 
@@ -11,7 +11,7 @@ See [data_manifest.csv](data_manifest.csv) for the full file-by-file inventory, 
 | `processed/cleaned/` | 8 cleaned domain CSVs (`USDA_Yield_Cleaned.csv`, `NOAA_Climate_Cleaned.csv`, `PRISM_Climate_Cleaned.csv`, `SoilGrids_Cleaned.csv`, `RMA_Cleaned.csv`, `Crop_Condition_Cleaned.csv`, `Crop_Progress_Cleaned.csv`, `Fertilizer_Cleaned.csv`) | County-Year / County / State-Year | Standard Git |
 | `processed/integrated/` | 3 merged tables (`County_Year_Feature_Table.csv`, `County_Year_Master_Dataset.csv`, `Future_2026_Feature_Table.csv`) | County-Year | Standard Git |
 | `raw/usda_nass/` | Raw USDA NASS QuickStats corn yield CSVs | County-Year | Standard Git |
-| `raw/noaa_climate/` | NOAA ClimDiv raw snapshot (`20261006`) + extracted 9-state CSVs | County-Month / Year | Standard Git |
+| `raw/noaa_climate/` | NOAA ClimDiv raw snapshot (`climdiv-*-v1.0.0-20261006`) | County-Month / Year | Standard Git |
 | `raw/prism/` | PRISM 4 km annual ZIPs (`2002–2025`, note `2023 ppt` absent) and provisional `2026` monthly ZIPs | 4 km Grid | Standard Git |
 | `raw/soilgrids/` | ISRIC SoilGrids 2.0 Corn Belt regional GeoTIFFs (`0–5`, `5–15`, `15–30 cm`) | 250 m Grid (Static) | Standard Git |
 | `raw/usda_rma/` | USDA RMA Summary of Business archives (`sobcov_2002..2026.zip`) | County-Policy-Year | Standard Git |
