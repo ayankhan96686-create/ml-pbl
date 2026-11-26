@@ -1,0 +1,22 @@
+CDL_Code,Class_Name,Category,Hex_Color
+1,Corn,Field Crops,#FFD300
+2,Cotton,Field Crops,#FF2626
+3,Rice,Field Crops,#00A8E2
+4,Sorghum,Field Crops,#FF9E0A
+5,Soybeans,Field Crops,#267000
+6,Sunflower,Field Crops,#FFFF00
+12,Sweet Corn,Vegetables,#DDAA00
+13,Pop or Orn Corn,Field Crops,#DDAA55
+21,Barley,Field Crops,#E2007C
+22,Durum Wheat,Field Crops,#896E43
+23,Spring Wheat,Field Crops,#DAB680
+24,Winter Wheat,Field Crops,#A57000
+25,Other Small Grains,Field Crops,#D69EBC
+26,Dbl Crop WinWht/Soybeans,Double Crops,#707000
+27,Rye,Field Crops,#AB0000
+28,Oats,Field Crops,#A05A32
+225,Dbl Crop WinWht/Corn,Double Crops,#FFD300
+226,Dbl Crop Oats/Corn,Double Crops,#FFD300
+228,Dbl Crop Triticale/Corn,Double Crops,#FFD300
+237,Dbl Crop Barley/Corn,Double Crops,#FFD300
+241,Dbl Crop Corn/Soybeans,Double Crops,#FFD300

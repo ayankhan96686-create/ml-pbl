@@ -1,0 +1,815 @@
+State_FIPS,State_Abbr,State_Name,County_FIPS,Full_FIPS,County_Name,County_NS,Class_FIPS,Func_Stat
+17,IL,Illinois,001,17001,Adams County,00424202,H1,A
+17,IL,Illinois,003,17003,Alexander County,00424203,H1,A
+17,IL,Illinois,005,17005,Bond County,00424204,H1,A
+17,IL,Illinois,007,17007,Boone County,00424205,H1,A
+17,IL,Illinois,009,17009,Brown County,00424206,H1,A
+17,IL,Illinois,011,17011,Bureau County,00424207,H1,A
+17,IL,Illinois,013,17013,Calhoun County,00424208,H1,A
+17,IL,Illinois,015,17015,Carroll County,00424209,H1,A
+17,IL,Illinois,017,17017,Cass County,00424210,H1,A
+17,IL,Illinois,019,17019,Champaign County,00424211,H1,A
+17,IL,Illinois,021,17021,Christian County,00424212,H1,A
+17,IL,Illinois,023,17023,Clark County,00424213,H1,A
+17,IL,Illinois,025,17025,Clay County,00424214,H1,A
+17,IL,Illinois,027,17027,Clinton County,00424215,H1,A
+17,IL,Illinois,029,17029,Coles County,00424216,H1,A
+17,IL,Illinois,031,17031,Cook County,01784766,H1,A
+17,IL,Illinois,033,17033,Crawford County,00424218,H1,A
+17,IL,Illinois,035,17035,Cumberland County,00424219,H1,A
+17,IL,Illinois,037,17037,DeKalb County,00422190,H1,A
+17,IL,Illinois,039,17039,De Witt County,00426598,H1,A
+17,IL,Illinois,041,17041,Douglas County,00424222,H1,A
+17,IL,Illinois,043,17043,DuPage County,00422191,H1,A
+17,IL,Illinois,045,17045,Edgar County,00424224,H1,A
+17,IL,Illinois,047,17047,Edwards County,00424225,H1,A
+17,IL,Illinois,049,17049,Effingham County,00424226,H1,A
+17,IL,Illinois,051,17051,Fayette County,00424227,H1,A
+17,IL,Illinois,053,17053,Ford County,00424228,H1,A
+17,IL,Illinois,055,17055,Franklin County,00424229,H1,A
+17,IL,Illinois,057,17057,Fulton County,00424230,H1,A
+17,IL,Illinois,059,17059,Gallatin County,00424231,H1,A
+17,IL,Illinois,061,17061,Greene County,00424232,H1,A
+17,IL,Illinois,063,17063,Grundy County,00424233,H1,A
+17,IL,Illinois,065,17065,Hamilton County,00424234,H1,A
+17,IL,Illinois,067,17067,Hancock County,00424235,H1,A
+17,IL,Illinois,069,17069,Hardin County,00424236,H1,A
+17,IL,Illinois,071,17071,Henderson County,00424237,H1,A
+17,IL,Illinois,073,17073,Henry County,00424238,H1,A
+17,IL,Illinois,075,17075,Iroquois County,00424239,H1,A
+17,IL,Illinois,077,17077,Jackson County,00424240,H1,A
+17,IL,Illinois,079,17079,Jasper County,00424241,H1,A
+17,IL,Illinois,081,17081,Jefferson County,00424242,H1,A
+17,IL,Illinois,083,17083,Jersey County,00424243,H1,A
+17,IL,Illinois,085,17085,Jo Daviess County,00424244,H1,A
+17,IL,Illinois,087,17087,Johnson County,00424245,H1,A
+17,IL,Illinois,089,17089,Kane County,00424246,H1,A
+17,IL,Illinois,091,17091,Kankakee County,00424247,H1,A
+17,IL,Illinois,093,17093,Kendall County,00424248,H1,A
+17,IL,Illinois,095,17095,Knox County,00424249,H1,A
+17,IL,Illinois,097,17097,Lake County,01784796,H1,A
+17,IL,Illinois,099,17099,LaSalle County,00422247,H1,A
+17,IL,Illinois,101,17101,Lawrence County,00424252,H1,A
+17,IL,Illinois,103,17103,Lee County,00424253,H1,A
+17,IL,Illinois,105,17105,Livingston County,00424254,H1,A
+17,IL,Illinois,107,17107,Logan County,00424255,H1,A
+17,IL,Illinois,109,17109,McDonough County,01784729,H1,A
+17,IL,Illinois,111,17111,McHenry County,01784815,H1,A
+17,IL,Illinois,113,17113,McLean County,01784833,H1,A
+17,IL,Illinois,115,17115,Macon County,00424256,H1,A
+17,IL,Illinois,117,17117,Macoupin County,00424257,H1,A
+17,IL,Illinois,119,17119,Madison County,00424258,H1,A
+17,IL,Illinois,121,17121,Marion County,00424259,H1,A
+17,IL,Illinois,123,17123,Marshall County,00424260,H1,A
+17,IL,Illinois,125,17125,Mason County,00424261,H1,A
+17,IL,Illinois,127,17127,Massac County,01784730,H1,A
+17,IL,Illinois,129,17129,Menard County,00424266,H1,A
+17,IL,Illinois,131,17131,Mercer County,01784750,H1,A
+17,IL,Illinois,133,17133,Monroe County,01784865,H1,A
+17,IL,Illinois,135,17135,Montgomery County,01784866,H1,A
+17,IL,Illinois,137,17137,Morgan County,00424270,H1,A
+17,IL,Illinois,139,17139,Moultrie County,01784885,H1,A
+17,IL,Illinois,141,17141,Ogle County,01784894,H1,A
+17,IL,Illinois,143,17143,Peoria County,01784920,H1,A
+17,IL,Illinois,145,17145,Perry County,01784940,H1,A
+17,IL,Illinois,147,17147,Piatt County,00424275,H1,A
+17,IL,Illinois,149,17149,Pike County,01784941,H1,A
+17,IL,Illinois,151,17151,Pope County,00424277,H1,A
+17,IL,Illinois,153,17153,Pulaski County,01784966,H1,A
+17,IL,Illinois,155,17155,Putnam County,00424279,H1,A
+17,IL,Illinois,157,17157,Randolph County,01784967,H1,A
+17,IL,Illinois,159,17159,Richland County,00424281,H1,A
+17,IL,Illinois,161,17161,Rock Island County,00424282,H1,A
+17,IL,Illinois,163,17163,St. Clair County,01784987,H1,A
+17,IL,Illinois,165,17165,Saline County,00424283,H1,A
+17,IL,Illinois,167,17167,Sangamon County,01785010,H1,A
+17,IL,Illinois,169,17169,Schuyler County,01785037,H1,A
+17,IL,Illinois,171,17171,Scott County,00424286,H1,A
+17,IL,Illinois,173,17173,Shelby County,01785051,H1,A
+17,IL,Illinois,175,17175,Stark County,00424288,H1,A
+17,IL,Illinois,177,17177,Stephenson County,01785076,H1,A
+17,IL,Illinois,179,17179,Tazewell County,01785094,H1,A
+17,IL,Illinois,181,17181,Union County,01785113,H1,A
+17,IL,Illinois,183,17183,Vermilion County,01785114,H1,A
+17,IL,Illinois,185,17185,Wabash County,00424293,H1,A
+17,IL,Illinois,187,17187,Warren County,01785134,H1,A
+17,IL,Illinois,189,17189,Washington County,01785150,H1,A
+17,IL,Illinois,191,17191,Wayne County,00424296,H1,A
+17,IL,Illinois,193,17193,White County,00424297,H1,A
+17,IL,Illinois,195,17195,Whiteside County,01785167,H1,A
+17,IL,Illinois,197,17197,Will County,01785190,H1,A
+17,IL,Illinois,199,17199,Williamson County,01785215,H1,A
+17,IL,Illinois,201,17201,Winnebago County,01785216,H1,A
+17,IL,Illinois,203,17203,Woodford County,01785231,H1,A
+18,IN,Indiana,001,18001,Adams County,00450401,H1,A
+18,IN,Indiana,003,18003,Allen County,00450402,H1,A
+18,IN,Indiana,005,18005,Bartholomew County,00451683,H1,A
+18,IN,Indiana,007,18007,Benton County,00450403,H1,A
+18,IN,Indiana,009,18009,Blackford County,00450404,H1,A
+18,IN,Indiana,011,18011,Boone County,00450405,H1,A
+18,IN,Indiana,013,18013,Brown County,00451684,H1,A
+18,IN,Indiana,015,18015,Carroll County,00450406,H1,A
+18,IN,Indiana,017,18017,Cass County,00450339,H1,A
+18,IN,Indiana,019,18019,Clark County,00450340,H1,A
+18,IN,Indiana,021,18021,Clay County,00450341,H1,A
+18,IN,Indiana,023,18023,Clinton County,00450342,H1,A
+18,IN,Indiana,025,18025,Crawford County,00451674,H1,A
+18,IN,Indiana,027,18027,Daviess County,00450343,H1,A
+18,IN,Indiana,029,18029,Dearborn County,00450344,H1,A
+18,IN,Indiana,031,18031,Decatur County,00450345,H1,A
+18,IN,Indiana,033,18033,DeKalb County,00450346,H1,A
+18,IN,Indiana,035,18035,Delaware County,00450347,H1,A
+18,IN,Indiana,037,18037,Dubois County,00451675,H1,A
+18,IN,Indiana,039,18039,Elkhart County,00450348,H1,A
+18,IN,Indiana,041,18041,Fayette County,00450349,H1,A
+18,IN,Indiana,043,18043,Floyd County,00450350,H1,A
+18,IN,Indiana,045,18045,Fountain County,00450351,H1,A
+18,IN,Indiana,047,18047,Franklin County,00450352,H1,A
+18,IN,Indiana,049,18049,Fulton County,00450353,H1,A
+18,IN,Indiana,051,18051,Gibson County,00450354,H1,A
+18,IN,Indiana,053,18053,Grant County,00450355,H1,A
+18,IN,Indiana,055,18055,Greene County,00451676,H1,A
+18,IN,Indiana,057,18057,Hamilton County,00450356,H1,A
+18,IN,Indiana,059,18059,Hancock County,00450357,H1,A
+18,IN,Indiana,061,18061,Harrison County,00451677,H1,A
+18,IN,Indiana,063,18063,Hendricks County,00450358,H1,A
+18,IN,Indiana,065,18065,Henry County,00450359,H1,A
+18,IN,Indiana,067,18067,Howard County,00450360,H1,A
+18,IN,Indiana,069,18069,Huntington County,00450361,H1,A
+18,IN,Indiana,071,18071,Jackson County,00451678,H1,A
+18,IN,Indiana,073,18073,Jasper County,00450494,H1,A
+18,IN,Indiana,075,18075,Jay County,00450362,H1,A
+18,IN,Indiana,077,18077,Jefferson County,00450363,H1,A
+18,IN,Indiana,079,18079,Jennings County,00450364,H1,A
+18,IN,Indiana,081,18081,Johnson County,00450365,H1,A
+18,IN,Indiana,083,18083,Knox County,00450366,H1,A
+18,IN,Indiana,085,18085,Kosciusko County,00450367,H1,A
+18,IN,Indiana,087,18087,LaGrange County,00450368,H1,A
+18,IN,Indiana,089,18089,Lake County,00450495,H1,A
+18,IN,Indiana,091,18091,LaPorte County,00450507,H1,A
+18,IN,Indiana,093,18093,Lawrence County,00451703,H1,A
+18,IN,Indiana,095,18095,Madison County,00450370,H1,A
+18,IN,Indiana,097,18097,Marion County,00450371,H6,C
+18,IN,Indiana,099,18099,Marshall County,00450372,H1,A
+18,IN,Indiana,101,18101,Martin County,00451679,H1,A
+18,IN,Indiana,103,18103,Miami County,00450373,H1,A
+18,IN,Indiana,105,18105,Monroe County,00451680,H1,A
+18,IN,Indiana,107,18107,Montgomery County,00450374,H1,A
+18,IN,Indiana,109,18109,Morgan County,00450375,H1,A
+18,IN,Indiana,111,18111,Newton County,00450376,H1,A
+18,IN,Indiana,113,18113,Noble County,00450377,H1,A
+18,IN,Indiana,115,18115,Ohio County,00450378,H1,A
+18,IN,Indiana,117,18117,Orange County,00451681,H1,A
+18,IN,Indiana,119,18119,Owen County,00450379,H1,A
+18,IN,Indiana,121,18121,Parke County,00450380,H1,A
+18,IN,Indiana,123,18123,Perry County,00451682,H1,A
+18,IN,Indiana,125,18125,Pike County,00450381,H1,A
+18,IN,Indiana,127,18127,Porter County,00450382,H1,A
+18,IN,Indiana,129,18129,Posey County,00450383,H1,A
+18,IN,Indiana,131,18131,Pulaski County,00446852,H1,A
+18,IN,Indiana,133,18133,Putnam County,00450384,H1,A
+18,IN,Indiana,135,18135,Randolph County,00446853,H1,A
+18,IN,Indiana,137,18137,Ripley County,00450385,H1,A
+18,IN,Indiana,139,18139,Rush County,00446854,H1,A
+18,IN,Indiana,141,18141,St. Joseph County,00452855,H1,A
+18,IN,Indiana,143,18143,Scott County,00450386,H1,A
+18,IN,Indiana,145,18145,Shelby County,00450387,H1,A
+18,IN,Indiana,147,18147,Spencer County,00450388,H1,A
+18,IN,Indiana,149,18149,Starke County,00450389,H1,A
+18,IN,Indiana,151,18151,Steuben County,00450390,H1,A
+18,IN,Indiana,153,18153,Sullivan County,00450391,H1,A
+18,IN,Indiana,155,18155,Switzerland County,00450392,H1,A
+18,IN,Indiana,157,18157,Tippecanoe County,00450393,H1,A
+18,IN,Indiana,159,18159,Tipton County,00450394,H1,A
+18,IN,Indiana,161,18161,Union County,00450395,H1,A
+18,IN,Indiana,163,18163,Vanderburgh County,00450396,H1,A
+18,IN,Indiana,165,18165,Vermillion County,00450397,H1,A
+18,IN,Indiana,167,18167,Vigo County,00450398,H1,A
+18,IN,Indiana,169,18169,Wabash County,00450399,H1,A
+18,IN,Indiana,171,18171,Warren County,00450400,H1,A
+18,IN,Indiana,173,18173,Warrick County,00450335,H1,A
+18,IN,Indiana,175,18175,Washington County,00451665,H1,A
+18,IN,Indiana,177,18177,Wayne County,00450336,H1,A
+18,IN,Indiana,179,18179,Wells County,00450337,H1,A
+18,IN,Indiana,181,18181,White County,00450338,H1,A
+18,IN,Indiana,183,18183,Whitley County,00450369,H1,A
+19,IA,Iowa,001,19001,Adair County,00465190,H1,A
+19,IA,Iowa,003,19003,Adams County,00465191,H1,A
+19,IA,Iowa,005,19005,Allamakee County,00465192,H1,A
+19,IA,Iowa,007,19007,Appanoose County,00465193,H1,A
+19,IA,Iowa,009,19009,Audubon County,00465194,H1,A
+19,IA,Iowa,011,19011,Benton County,00465195,H1,A
+19,IA,Iowa,013,19013,Black Hawk County,00465196,H1,A
+19,IA,Iowa,015,19015,Boone County,00465197,H1,A
+19,IA,Iowa,017,19017,Bremer County,00465198,H1,A
+19,IA,Iowa,019,19019,Buchanan County,00465199,H1,A
+19,IA,Iowa,021,19021,Buena Vista County,00465200,H1,A
+19,IA,Iowa,023,19023,Butler County,00465201,H1,A
+19,IA,Iowa,025,19025,Calhoun County,00465202,H1,A
+19,IA,Iowa,027,19027,Carroll County,00465203,H1,A
+19,IA,Iowa,029,19029,Cass County,00465204,H1,A
+19,IA,Iowa,031,19031,Cedar County,00465205,H1,A
+19,IA,Iowa,033,19033,Cerro Gordo County,00465206,H1,A
+19,IA,Iowa,035,19035,Cherokee County,00465207,H1,A
+19,IA,Iowa,037,19037,Chickasaw County,00465208,H1,A
+19,IA,Iowa,039,19039,Clarke County,00465209,H1,A
+19,IA,Iowa,041,19041,Clay County,00465625,H1,A
+19,IA,Iowa,043,19043,Clayton County,00465210,H1,A
+19,IA,Iowa,045,19045,Clinton County,00465211,H1,A
+19,IA,Iowa,047,19047,Crawford County,00465212,H1,A
+19,IA,Iowa,049,19049,Dallas County,00465213,H1,A
+19,IA,Iowa,051,19051,Davis County,00465214,H1,A
+19,IA,Iowa,053,19053,Decatur County,00465215,H1,A
+19,IA,Iowa,055,19055,Delaware County,00465216,H1,A
+19,IA,Iowa,057,19057,Des Moines County,00465217,H1,A
+19,IA,Iowa,059,19059,Dickinson County,00465218,H1,A
+19,IA,Iowa,061,19061,Dubuque County,00465219,H1,A
+19,IA,Iowa,063,19063,Emmet County,00465220,H1,A
+19,IA,Iowa,065,19065,Fayette County,00465221,H1,A
+19,IA,Iowa,067,19067,Floyd County,00465222,H1,A
+19,IA,Iowa,069,19069,Franklin County,00465223,H1,A
+19,IA,Iowa,071,19071,Fremont County,00465224,H1,A
+19,IA,Iowa,073,19073,Greene County,00465225,H1,A
+19,IA,Iowa,075,19075,Grundy County,00465226,H1,A
+19,IA,Iowa,077,19077,Guthrie County,00465227,H1,A
+19,IA,Iowa,079,19079,Hamilton County,00465228,H1,A
+19,IA,Iowa,081,19081,Hancock County,00465229,H1,A
+19,IA,Iowa,083,19083,Hardin County,00465230,H1,A
+19,IA,Iowa,085,19085,Harrison County,00465231,H1,A
+19,IA,Iowa,087,19087,Henry County,00465232,H1,A
+19,IA,Iowa,089,19089,Howard County,00465233,H1,A
+19,IA,Iowa,091,19091,Humboldt County,00465234,H1,A
+19,IA,Iowa,093,19093,Ida County,00465235,H1,A
+19,IA,Iowa,095,19095,Iowa County,00465236,H1,A
+19,IA,Iowa,097,19097,Jackson County,00465237,H1,A
+19,IA,Iowa,099,19099,Jasper County,00465238,H1,A
+19,IA,Iowa,101,19101,Jefferson County,00465239,H1,A
+19,IA,Iowa,103,19103,Johnson County,00465240,H1,A
+19,IA,Iowa,105,19105,Jones County,00465241,H1,A
+19,IA,Iowa,107,19107,Keokuk County,00465242,H1,A
+19,IA,Iowa,109,19109,Kossuth County,00465243,H1,A
+19,IA,Iowa,111,19111,Lee County,00465244,H1,A
+19,IA,Iowa,113,19113,Linn County,00465245,H1,A
+19,IA,Iowa,115,19115,Louisa County,00465246,H1,A
+19,IA,Iowa,117,19117,Lucas County,00465247,H1,A
+19,IA,Iowa,119,19119,Lyon County,00465248,H1,A
+19,IA,Iowa,121,19121,Madison County,00465249,H1,A
+19,IA,Iowa,123,19123,Mahaska County,00465250,H1,A
+19,IA,Iowa,125,19125,Marion County,00465251,H1,A
+19,IA,Iowa,127,19127,Marshall County,00465252,H1,A
+19,IA,Iowa,129,19129,Mills County,00465253,H1,A
+19,IA,Iowa,131,19131,Mitchell County,00465254,H1,A
+19,IA,Iowa,133,19133,Monona County,00465255,H1,A
+19,IA,Iowa,135,19135,Monroe County,00465256,H1,A
+19,IA,Iowa,137,19137,Montgomery County,00465257,H1,A
+19,IA,Iowa,139,19139,Muscatine County,00465258,H1,A
+19,IA,Iowa,141,19141,O'Brien County,00465259,H1,A
+19,IA,Iowa,143,19143,Osceola County,00465260,H1,A
+19,IA,Iowa,145,19145,Page County,00465261,H1,A
+19,IA,Iowa,147,19147,Palo Alto County,00465262,H1,A
+19,IA,Iowa,149,19149,Plymouth County,00465263,H1,A
+19,IA,Iowa,151,19151,Pocahontas County,00465264,H1,A
+19,IA,Iowa,153,19153,Polk County,00465265,H1,A
+19,IA,Iowa,155,19155,Pottawattamie County,00465266,H1,A
+19,IA,Iowa,157,19157,Poweshiek County,00465267,H1,A
+19,IA,Iowa,159,19159,Ringgold County,00465268,H1,A
+19,IA,Iowa,161,19161,Sac County,00465269,H1,A
+19,IA,Iowa,163,19163,Scott County,00465270,H1,A
+19,IA,Iowa,165,19165,Shelby County,00465271,H1,A
+19,IA,Iowa,167,19167,Sioux County,00465272,H1,A
+19,IA,Iowa,169,19169,Story County,00465273,H1,A
+19,IA,Iowa,171,19171,Tama County,00465274,H1,A
+19,IA,Iowa,173,19173,Taylor County,00465275,H1,A
+19,IA,Iowa,175,19175,Union County,00465276,H1,A
+19,IA,Iowa,177,19177,Van Buren County,00465277,H1,A
+19,IA,Iowa,179,19179,Wapello County,00465278,H1,A
+19,IA,Iowa,181,19181,Warren County,00465279,H1,A
+19,IA,Iowa,183,19183,Washington County,00465280,H1,A
+19,IA,Iowa,185,19185,Wayne County,00465281,H1,A
+19,IA,Iowa,187,19187,Webster County,00465282,H1,A
+19,IA,Iowa,189,19189,Winnebago County,00465283,H1,A
+19,IA,Iowa,191,19191,Winneshiek County,00465284,H1,A
+19,IA,Iowa,193,19193,Woodbury County,00465285,H1,A
+19,IA,Iowa,195,19195,Worth County,00465286,H1,A
+19,IA,Iowa,197,19197,Wright County,00465287,H1,A
+27,MN,Minnesota,001,27001,Aitkin County,00663198,H1,A
+27,MN,Minnesota,003,27003,Anoka County,00659447,H1,A
+27,MN,Minnesota,005,27005,Becker County,00659448,H1,A
+27,MN,Minnesota,007,27007,Beltrami County,00659449,H1,A
+27,MN,Minnesota,009,27009,Benton County,00659450,H1,A
+27,MN,Minnesota,011,27011,Big Stone County,00659451,H1,A
+27,MN,Minnesota,013,27013,Blue Earth County,00659452,H1,A
+27,MN,Minnesota,015,27015,Brown County,00659453,H1,A
+27,MN,Minnesota,017,27017,Carlton County,00659454,H1,A
+27,MN,Minnesota,019,27019,Carver County,00659455,H1,A
+27,MN,Minnesota,021,27021,Cass County,00659456,H1,A
+27,MN,Minnesota,023,27023,Chippewa County,00659457,H1,A
+27,MN,Minnesota,025,27025,Chisago County,00659458,H1,A
+27,MN,Minnesota,027,27027,Clay County,00659459,H1,A
+27,MN,Minnesota,029,27029,Clearwater County,00659460,H1,A
+27,MN,Minnesota,031,27031,Cook County,00659461,H1,A
+27,MN,Minnesota,033,27033,Cottonwood County,00659462,H1,A
+27,MN,Minnesota,035,27035,Crow Wing County,00659463,H1,A
+27,MN,Minnesota,037,27037,Dakota County,00659464,H1,A
+27,MN,Minnesota,039,27039,Dodge County,00659465,H1,A
+27,MN,Minnesota,041,27041,Douglas County,00659466,H1,A
+27,MN,Minnesota,043,27043,Faribault County,00659467,H1,A
+27,MN,Minnesota,045,27045,Fillmore County,00659468,H1,A
+27,MN,Minnesota,047,27047,Freeborn County,00659469,H1,A
+27,MN,Minnesota,049,27049,Goodhue County,00659470,H1,A
+27,MN,Minnesota,051,27051,Grant County,00659471,H1,A
+27,MN,Minnesota,053,27053,Hennepin County,00659472,H1,A
+27,MN,Minnesota,055,27055,Houston County,00659473,H1,A
+27,MN,Minnesota,057,27057,Hubbard County,00659474,H1,A
+27,MN,Minnesota,059,27059,Isanti County,00659475,H1,A
+27,MN,Minnesota,061,27061,Itasca County,00659476,H1,A
+27,MN,Minnesota,063,27063,Jackson County,00659477,H1,A
+27,MN,Minnesota,065,27065,Kanabec County,00659478,H1,A
+27,MN,Minnesota,067,27067,Kandiyohi County,00659479,H1,A
+27,MN,Minnesota,069,27069,Kittson County,00659480,H1,A
+27,MN,Minnesota,071,27071,Koochiching County,00659481,H1,A
+27,MN,Minnesota,073,27073,Lac qui Parle County,00659482,H1,A
+27,MN,Minnesota,075,27075,Lake County,00659484,H1,A
+27,MN,Minnesota,077,27077,Lake of the Woods County,00659483,H1,A
+27,MN,Minnesota,079,27079,Le Sueur County,00659485,H1,A
+27,MN,Minnesota,081,27081,Lincoln County,00659486,H1,A
+27,MN,Minnesota,083,27083,Lyon County,00659487,H1,A
+27,MN,Minnesota,085,27085,McLeod County,00659491,H1,A
+27,MN,Minnesota,087,27087,Mahnomen County,00659488,H1,A
+27,MN,Minnesota,089,27089,Marshall County,00659489,H1,A
+27,MN,Minnesota,091,27091,Martin County,00659490,H1,A
+27,MN,Minnesota,093,27093,Meeker County,00659492,H1,A
+27,MN,Minnesota,095,27095,Mille Lacs County,00659493,H1,A
+27,MN,Minnesota,097,27097,Morrison County,00659494,H1,A
+27,MN,Minnesota,099,27099,Mower County,00659495,H1,A
+27,MN,Minnesota,101,27101,Murray County,00659496,H1,A
+27,MN,Minnesota,103,27103,Nicollet County,00659497,H1,A
+27,MN,Minnesota,105,27105,Nobles County,00659498,H1,A
+27,MN,Minnesota,107,27107,Norman County,00659499,H1,A
+27,MN,Minnesota,109,27109,Olmsted County,00659500,H1,A
+27,MN,Minnesota,111,27111,Otter Tail County,00659501,H1,A
+27,MN,Minnesota,113,27113,Pennington County,00659502,H1,A
+27,MN,Minnesota,115,27115,Pine County,00659503,H1,A
+27,MN,Minnesota,117,27117,Pipestone County,00659504,H1,A
+27,MN,Minnesota,119,27119,Polk County,00659505,H1,A
+27,MN,Minnesota,121,27121,Pope County,00659506,H1,A
+27,MN,Minnesota,123,27123,Ramsey County,00659507,H1,A
+27,MN,Minnesota,125,27125,Red Lake County,00659508,H1,A
+27,MN,Minnesota,127,27127,Redwood County,00659509,H1,A
+27,MN,Minnesota,129,27129,Renville County,00659510,H1,A
+27,MN,Minnesota,131,27131,Rice County,00659511,H1,A
+27,MN,Minnesota,133,27133,Rock County,00659512,H1,A
+27,MN,Minnesota,135,27135,Roseau County,00659513,H1,A
+27,MN,Minnesota,137,27137,St. Louis County,00662850,H1,A
+27,MN,Minnesota,139,27139,Scott County,00659514,H1,A
+27,MN,Minnesota,141,27141,Sherburne County,00659515,H1,A
+27,MN,Minnesota,143,27143,Sibley County,00659516,H1,A
+27,MN,Minnesota,145,27145,Stearns County,00659517,H1,A
+27,MN,Minnesota,147,27147,Steele County,00659518,H1,A
+27,MN,Minnesota,149,27149,Stevens County,00659519,H1,A
+27,MN,Minnesota,151,27151,Swift County,00659520,H1,A
+27,MN,Minnesota,153,27153,Todd County,00659521,H1,A
+27,MN,Minnesota,155,27155,Traverse County,00659522,H1,A
+27,MN,Minnesota,157,27157,Wabasha County,00659523,H1,A
+27,MN,Minnesota,159,27159,Wadena County,00659524,H1,A
+27,MN,Minnesota,161,27161,Waseca County,00659525,H1,A
+27,MN,Minnesota,163,27163,Washington County,00659526,H1,A
+27,MN,Minnesota,165,27165,Watonwan County,00659527,H1,A
+27,MN,Minnesota,167,27167,Wilkin County,00659528,H1,A
+27,MN,Minnesota,169,27169,Winona County,00659529,H1,A
+27,MN,Minnesota,171,27171,Wright County,00659530,H1,A
+27,MN,Minnesota,173,27173,Yellow Medicine County,00659531,H1,A
+29,MO,Missouri,001,29001,Adair County,00765805,H1,A
+29,MO,Missouri,003,29003,Andrew County,00758456,H1,A
+29,MO,Missouri,005,29005,Atchison County,00758457,H1,A
+29,MO,Missouri,007,29007,Audrain County,00758458,H1,A
+29,MO,Missouri,009,29009,Barry County,00758459,H1,A
+29,MO,Missouri,011,29011,Barton County,00758460,H1,A
+29,MO,Missouri,013,29013,Bates County,00758461,H1,A
+29,MO,Missouri,015,29015,Benton County,00758462,H1,A
+29,MO,Missouri,017,29017,Bollinger County,00758463,H1,A
+29,MO,Missouri,019,29019,Boone County,00758464,H1,A
+29,MO,Missouri,021,29021,Buchanan County,00758465,H1,A
+29,MO,Missouri,023,29023,Butler County,00758466,H1,A
+29,MO,Missouri,025,29025,Caldwell County,00758467,H1,A
+29,MO,Missouri,027,29027,Callaway County,00758468,H1,A
+29,MO,Missouri,029,29029,Camden County,00758469,H1,A
+29,MO,Missouri,031,29031,Cape Girardeau County,00758470,H1,A
+29,MO,Missouri,033,29033,Carroll County,00758471,H1,A
+29,MO,Missouri,035,29035,Carter County,00758472,H1,A
+29,MO,Missouri,037,29037,Cass County,00758473,H1,A
+29,MO,Missouri,039,29039,Cedar County,00758474,H1,A
+29,MO,Missouri,041,29041,Chariton County,00758475,H1,A
+29,MO,Missouri,043,29043,Christian County,00758476,H1,A
+29,MO,Missouri,045,29045,Clark County,00758477,H1,A
+29,MO,Missouri,047,29047,Clay County,00758478,H1,A
+29,MO,Missouri,049,29049,Clinton County,00758479,H1,A
+29,MO,Missouri,051,29051,Cole County,00758480,H1,A
+29,MO,Missouri,053,29053,Cooper County,00758481,H1,A
+29,MO,Missouri,055,29055,Crawford County,00758482,H1,A
+29,MO,Missouri,057,29057,Dade County,00758483,H1,A
+29,MO,Missouri,059,29059,Dallas County,00758484,H1,A
+29,MO,Missouri,061,29061,Daviess County,00758485,H1,A
+29,MO,Missouri,063,29063,DeKalb County,00758486,H1,A
+29,MO,Missouri,065,29065,Dent County,00758487,H1,A
+29,MO,Missouri,067,29067,Douglas County,00758488,H1,A
+29,MO,Missouri,069,29069,Dunklin County,00758489,H1,A
+29,MO,Missouri,071,29071,Franklin County,00758490,H1,A
+29,MO,Missouri,073,29073,Gasconade County,00758491,H1,A
+29,MO,Missouri,075,29075,Gentry County,00758492,H1,A
+29,MO,Missouri,077,29077,Greene County,00758493,H1,A
+29,MO,Missouri,079,29079,Grundy County,00758494,H1,A
+29,MO,Missouri,081,29081,Harrison County,00758495,H1,A
+29,MO,Missouri,083,29083,Henry County,00758496,H1,A
+29,MO,Missouri,085,29085,Hickory County,00758497,H1,A
+29,MO,Missouri,087,29087,Holt County,00758498,H1,A
+29,MO,Missouri,089,29089,Howard County,00758499,H1,A
+29,MO,Missouri,091,29091,Howell County,00758500,H1,A
+29,MO,Missouri,093,29093,Iron County,00758501,H1,A
+29,MO,Missouri,095,29095,Jackson County,00758502,H1,A
+29,MO,Missouri,097,29097,Jasper County,00758503,H1,A
+29,MO,Missouri,099,29099,Jefferson County,00758504,H1,A
+29,MO,Missouri,101,29101,Johnson County,00758505,H1,A
+29,MO,Missouri,103,29103,Knox County,00758506,H1,A
+29,MO,Missouri,105,29105,Laclede County,00758507,H1,A
+29,MO,Missouri,107,29107,Lafayette County,00758508,H1,A
+29,MO,Missouri,109,29109,Lawrence County,00758509,H1,A
+29,MO,Missouri,111,29111,Lewis County,00758510,H1,A
+29,MO,Missouri,113,29113,Lincoln County,00758511,H1,A
+29,MO,Missouri,115,29115,Linn County,00758512,H1,A
+29,MO,Missouri,117,29117,Livingston County,00758513,H1,A
+29,MO,Missouri,119,29119,McDonald County,00758518,H1,A
+29,MO,Missouri,121,29121,Macon County,00758514,H1,A
+29,MO,Missouri,123,29123,Madison County,00758515,H1,A
+29,MO,Missouri,125,29125,Maries County,00758516,H1,A
+29,MO,Missouri,127,29127,Marion County,00758517,H1,A
+29,MO,Missouri,129,29129,Mercer County,00758519,H1,A
+29,MO,Missouri,131,29131,Miller County,00758520,H1,A
+29,MO,Missouri,133,29133,Mississippi County,00758521,H1,A
+29,MO,Missouri,135,29135,Moniteau County,00758522,H1,A
+29,MO,Missouri,137,29137,Monroe County,00758523,H1,A
+29,MO,Missouri,139,29139,Montgomery County,00758524,H1,A
+29,MO,Missouri,141,29141,Morgan County,00758525,H1,A
+29,MO,Missouri,143,29143,New Madrid County,00758526,H1,A
+29,MO,Missouri,145,29145,Newton County,00758527,H1,A
+29,MO,Missouri,147,29147,Nodaway County,00758528,H1,A
+29,MO,Missouri,149,29149,Oregon County,00758529,H1,A
+29,MO,Missouri,151,29151,Osage County,00758530,H1,A
+29,MO,Missouri,153,29153,Ozark County,00758531,H1,A
+29,MO,Missouri,155,29155,Pemiscot County,00758532,H1,A
+29,MO,Missouri,157,29157,Perry County,00758533,H1,A
+29,MO,Missouri,159,29159,Pettis County,00758534,H1,A
+29,MO,Missouri,161,29161,Phelps County,00758535,H1,A
+29,MO,Missouri,163,29163,Pike County,00758536,H1,A
+29,MO,Missouri,165,29165,Platte County,00758537,H1,A
+29,MO,Missouri,167,29167,Polk County,00758538,H1,A
+29,MO,Missouri,169,29169,Pulaski County,00758539,H1,A
+29,MO,Missouri,171,29171,Putnam County,00758540,H1,A
+29,MO,Missouri,173,29173,Ralls County,00758541,H1,A
+29,MO,Missouri,175,29175,Randolph County,00758542,H1,A
+29,MO,Missouri,177,29177,Ray County,00758543,H1,A
+29,MO,Missouri,179,29179,Reynolds County,00758544,H1,A
+29,MO,Missouri,181,29181,Ripley County,00758545,H1,A
+29,MO,Missouri,183,29183,St. Charles County,00758546,H1,A
+29,MO,Missouri,185,29185,St. Clair County,00758547,H1,A
+29,MO,Missouri,186,29186,Ste. Genevieve County,00765806,H1,A
+29,MO,Missouri,187,29187,St. Francois County,00758548,H1,A
+29,MO,Missouri,189,29189,St. Louis County,00758549,H1,A
+29,MO,Missouri,195,29195,Saline County,00758550,H1,A
+29,MO,Missouri,197,29197,Schuyler County,00758551,H1,A
+29,MO,Missouri,199,29199,Scotland County,00758552,H1,A
+29,MO,Missouri,201,29201,Scott County,00758553,H1,A
+29,MO,Missouri,203,29203,Shannon County,00758554,H1,A
+29,MO,Missouri,205,29205,Shelby County,00758555,H1,A
+29,MO,Missouri,207,29207,Stoddard County,00758556,H1,A
+29,MO,Missouri,209,29209,Stone County,00758557,H1,A
+29,MO,Missouri,211,29211,Sullivan County,00758558,H1,A
+29,MO,Missouri,213,29213,Taney County,00758559,H1,A
+29,MO,Missouri,215,29215,Texas County,00758560,H1,A
+29,MO,Missouri,217,29217,Vernon County,00758561,H1,A
+29,MO,Missouri,219,29219,Warren County,00758562,H1,A
+29,MO,Missouri,221,29221,Washington County,00758563,H1,A
+29,MO,Missouri,223,29223,Wayne County,00758564,H1,A
+29,MO,Missouri,225,29225,Webster County,00758565,H1,A
+29,MO,Missouri,227,29227,Worth County,00758566,H1,A
+29,MO,Missouri,229,29229,Wright County,00758567,H1,A
+29,MO,Missouri,510,29510,St. Louis city,00767557,C7,F
+31,NE,Nebraska,001,31001,Adams County,00835823,H1,A
+31,NE,Nebraska,003,31003,Antelope County,00835824,H1,A
+31,NE,Nebraska,005,31005,Arthur County,00835825,H1,A
+31,NE,Nebraska,007,31007,Banner County,00835826,H1,A
+31,NE,Nebraska,009,31009,Blaine County,00835827,H1,A
+31,NE,Nebraska,011,31011,Boone County,00835828,H1,A
+31,NE,Nebraska,013,31013,Box Butte County,00835991,H1,A
+31,NE,Nebraska,015,31015,Boyd County,00835829,H1,A
+31,NE,Nebraska,017,31017,Brown County,00835830,H1,A
+31,NE,Nebraska,019,31019,Buffalo County,00835831,H1,A
+31,NE,Nebraska,021,31021,Burt County,00835832,H1,A
+31,NE,Nebraska,023,31023,Butler County,00835833,H1,A
+31,NE,Nebraska,025,31025,Cass County,00835834,H1,A
+31,NE,Nebraska,027,31027,Cedar County,00835835,H1,A
+31,NE,Nebraska,029,31029,Chase County,00835836,H1,A
+31,NE,Nebraska,031,31031,Cherry County,00835837,H1,A
+31,NE,Nebraska,033,31033,Cheyenne County,00835838,H1,A
+31,NE,Nebraska,035,31035,Clay County,00835839,H1,A
+31,NE,Nebraska,037,31037,Colfax County,00835840,H1,A
+31,NE,Nebraska,039,31039,Cuming County,00835841,H1,A
+31,NE,Nebraska,041,31041,Custer County,00835842,H1,A
+31,NE,Nebraska,043,31043,Dakota County,00835843,H1,A
+31,NE,Nebraska,045,31045,Dawes County,00835844,H1,A
+31,NE,Nebraska,047,31047,Dawson County,00835845,H1,A
+31,NE,Nebraska,049,31049,Deuel County,00835846,H1,A
+31,NE,Nebraska,051,31051,Dixon County,00835847,H1,A
+31,NE,Nebraska,053,31053,Dodge County,00835848,H1,A
+31,NE,Nebraska,055,31055,Douglas County,00835849,H1,A
+31,NE,Nebraska,057,31057,Dundy County,00835850,H1,A
+31,NE,Nebraska,059,31059,Fillmore County,00835851,H1,A
+31,NE,Nebraska,061,31061,Franklin County,00835852,H1,A
+31,NE,Nebraska,063,31063,Frontier County,00835853,H1,A
+31,NE,Nebraska,065,31065,Furnas County,00835854,H1,A
+31,NE,Nebraska,067,31067,Gage County,00835855,H1,A
+31,NE,Nebraska,069,31069,Garden County,00835856,H1,A
+31,NE,Nebraska,071,31071,Garfield County,00835857,H1,A
+31,NE,Nebraska,073,31073,Gosper County,00835858,H1,A
+31,NE,Nebraska,075,31075,Grant County,00835859,H1,A
+31,NE,Nebraska,077,31077,Greeley County,00835860,H1,A
+31,NE,Nebraska,079,31079,Hall County,00835861,H1,A
+31,NE,Nebraska,081,31081,Hamilton County,00835862,H1,A
+31,NE,Nebraska,083,31083,Harlan County,00835863,H1,A
+31,NE,Nebraska,085,31085,Hayes County,00835864,H1,A
+31,NE,Nebraska,087,31087,Hitchcock County,00835865,H1,A
+31,NE,Nebraska,089,31089,Holt County,00835866,H1,A
+31,NE,Nebraska,091,31091,Hooker County,00835867,H1,A
+31,NE,Nebraska,093,31093,Howard County,00835868,H1,A
+31,NE,Nebraska,095,31095,Jefferson County,00835869,H1,A
+31,NE,Nebraska,097,31097,Johnson County,00835870,H1,A
+31,NE,Nebraska,099,31099,Kearney County,00835871,H1,A
+31,NE,Nebraska,101,31101,Keith County,00835872,H1,A
+31,NE,Nebraska,103,31103,Keya Paha County,00835873,H1,A
+31,NE,Nebraska,105,31105,Kimball County,00835874,H1,A
+31,NE,Nebraska,107,31107,Knox County,00835875,H1,A
+31,NE,Nebraska,109,31109,Lancaster County,00835876,H1,A
+31,NE,Nebraska,111,31111,Lincoln County,00835877,H1,A
+31,NE,Nebraska,113,31113,Logan County,00835878,H1,A
+31,NE,Nebraska,115,31115,Loup County,00835879,H1,A
+31,NE,Nebraska,117,31117,McPherson County,00835881,H1,A
+31,NE,Nebraska,119,31119,Madison County,00835880,H1,A
+31,NE,Nebraska,121,31121,Merrick County,00835882,H1,A
+31,NE,Nebraska,123,31123,Morrill County,00835883,H1,A
+31,NE,Nebraska,125,31125,Nance County,00835884,H1,A
+31,NE,Nebraska,127,31127,Nemaha County,00835885,H1,A
+31,NE,Nebraska,129,31129,Nuckolls County,00835886,H1,A
+31,NE,Nebraska,131,31131,Otoe County,00835887,H1,A
+31,NE,Nebraska,133,31133,Pawnee County,00835888,H1,A
+31,NE,Nebraska,135,31135,Perkins County,00835889,H1,A
+31,NE,Nebraska,137,31137,Phelps County,00835890,H1,A
+31,NE,Nebraska,139,31139,Pierce County,00835891,H1,A
+31,NE,Nebraska,141,31141,Platte County,00835892,H1,A
+31,NE,Nebraska,143,31143,Polk County,00835893,H1,A
+31,NE,Nebraska,145,31145,Red Willow County,00835894,H1,A
+31,NE,Nebraska,147,31147,Richardson County,00835895,H1,A
+31,NE,Nebraska,149,31149,Rock County,00835896,H1,A
+31,NE,Nebraska,151,31151,Saline County,00835897,H1,A
+31,NE,Nebraska,153,31153,Sarpy County,00835898,H1,A
+31,NE,Nebraska,155,31155,Saunders County,00835899,H1,A
+31,NE,Nebraska,157,31157,Scotts Bluff County,00835900,H1,A
+31,NE,Nebraska,159,31159,Seward County,00835901,H1,A
+31,NE,Nebraska,161,31161,Sheridan County,00835902,H1,A
+31,NE,Nebraska,163,31163,Sherman County,00835903,H1,A
+31,NE,Nebraska,165,31165,Sioux County,00835904,H1,A
+31,NE,Nebraska,167,31167,Stanton County,00835905,H1,A
+31,NE,Nebraska,169,31169,Thayer County,00835906,H1,A
+31,NE,Nebraska,171,31171,Thomas County,00835907,H1,A
+31,NE,Nebraska,173,31173,Thurston County,00835908,H1,A
+31,NE,Nebraska,175,31175,Valley County,00835909,H1,A
+31,NE,Nebraska,177,31177,Washington County,00835910,H1,A
+31,NE,Nebraska,179,31179,Wayne County,00835911,H1,A
+31,NE,Nebraska,181,31181,Webster County,00835912,H1,A
+31,NE,Nebraska,183,31183,Wheeler County,00835913,H1,A
+31,NE,Nebraska,185,31185,York County,00835914,H1,A
+39,OH,Ohio,001,39001,Adams County,01074014,H1,A
+39,OH,Ohio,003,39003,Allen County,01074015,H1,A
+39,OH,Ohio,005,39005,Ashland County,01074016,H1,A
+39,OH,Ohio,007,39007,Ashtabula County,01074017,H1,A
+39,OH,Ohio,009,39009,Athens County,01074018,H1,A
+39,OH,Ohio,011,39011,Auglaize County,01074019,H1,A
+39,OH,Ohio,013,39013,Belmont County,01065575,H1,A
+39,OH,Ohio,015,39015,Brown County,01074020,H1,A
+39,OH,Ohio,017,39017,Butler County,01074021,H1,A
+39,OH,Ohio,019,39019,Carroll County,01074022,H1,A
+39,OH,Ohio,021,39021,Champaign County,01074023,H1,A
+39,OH,Ohio,023,39023,Clark County,01074024,H1,A
+39,OH,Ohio,025,39025,Clermont County,01074025,H1,A
+39,OH,Ohio,027,39027,Clinton County,01074026,H1,A
+39,OH,Ohio,029,39029,Columbiana County,01074027,H1,A
+39,OH,Ohio,031,39031,Coshocton County,01074028,H1,A
+39,OH,Ohio,033,39033,Crawford County,01074029,H1,A
+39,OH,Ohio,035,39035,Cuyahoga County,01074030,H1,A
+39,OH,Ohio,037,39037,Darke County,01074031,H1,A
+39,OH,Ohio,039,39039,Defiance County,01074032,H1,A
+39,OH,Ohio,041,39041,Delaware County,01074033,H1,A
+39,OH,Ohio,043,39043,Erie County,01074034,H1,A
+39,OH,Ohio,045,39045,Fairfield County,01074035,H1,A
+39,OH,Ohio,047,39047,Fayette County,01074036,H1,A
+39,OH,Ohio,049,39049,Franklin County,01074037,H1,A
+39,OH,Ohio,051,39051,Fulton County,01074038,H1,A
+39,OH,Ohio,053,39053,Gallia County,01074039,H1,A
+39,OH,Ohio,055,39055,Geauga County,01074040,H1,A
+39,OH,Ohio,057,39057,Greene County,01074041,H1,A
+39,OH,Ohio,059,39059,Guernsey County,01074042,H1,A
+39,OH,Ohio,061,39061,Hamilton County,01074043,H1,A
+39,OH,Ohio,063,39063,Hancock County,01074044,H1,A
+39,OH,Ohio,065,39065,Hardin County,01074045,H1,A
+39,OH,Ohio,067,39067,Harrison County,01074046,H1,A
+39,OH,Ohio,069,39069,Henry County,01074047,H1,A
+39,OH,Ohio,071,39071,Highland County,01074048,H1,A
+39,OH,Ohio,073,39073,Hocking County,01074049,H1,A
+39,OH,Ohio,075,39075,Holmes County,01074050,H1,A
+39,OH,Ohio,077,39077,Huron County,01074051,H1,A
+39,OH,Ohio,079,39079,Jackson County,01074052,H1,A
+39,OH,Ohio,081,39081,Jefferson County,01074053,H1,A
+39,OH,Ohio,083,39083,Knox County,01074054,H1,A
+39,OH,Ohio,085,39085,Lake County,01074055,H1,A
+39,OH,Ohio,087,39087,Lawrence County,01074056,H1,A
+39,OH,Ohio,089,39089,Licking County,01074057,H1,A
+39,OH,Ohio,091,39091,Logan County,01074058,H1,A
+39,OH,Ohio,093,39093,Lorain County,01074059,H1,A
+39,OH,Ohio,095,39095,Lucas County,01074060,H1,A
+39,OH,Ohio,097,39097,Madison County,01074061,H1,A
+39,OH,Ohio,099,39099,Mahoning County,01074062,H1,A
+39,OH,Ohio,101,39101,Marion County,01074063,H1,A
+39,OH,Ohio,103,39103,Medina County,01074064,H1,A
+39,OH,Ohio,105,39105,Meigs County,01074065,H1,A
+39,OH,Ohio,107,39107,Mercer County,01074066,H1,A
+39,OH,Ohio,109,39109,Miami County,01074067,H1,A
+39,OH,Ohio,111,39111,Monroe County,01074068,H1,A
+39,OH,Ohio,113,39113,Montgomery County,01074069,H1,A
+39,OH,Ohio,115,39115,Morgan County,01074070,H1,A
+39,OH,Ohio,117,39117,Morrow County,01074071,H1,A
+39,OH,Ohio,119,39119,Muskingum County,01074072,H1,A
+39,OH,Ohio,121,39121,Noble County,01074073,H1,A
+39,OH,Ohio,123,39123,Ottawa County,01074074,H1,A
+39,OH,Ohio,125,39125,Paulding County,01074075,H1,A
+39,OH,Ohio,127,39127,Perry County,01074076,H1,A
+39,OH,Ohio,129,39129,Pickaway County,01074077,H1,A
+39,OH,Ohio,131,39131,Pike County,01074078,H1,A
+39,OH,Ohio,133,39133,Portage County,01074079,H1,A
+39,OH,Ohio,135,39135,Preble County,01074080,H1,A
+39,OH,Ohio,137,39137,Putnam County,01074081,H1,A
+39,OH,Ohio,139,39139,Richland County,01074082,H1,A
+39,OH,Ohio,141,39141,Ross County,01074083,H1,A
+39,OH,Ohio,143,39143,Sandusky County,01074084,H1,A
+39,OH,Ohio,145,39145,Scioto County,01074085,H1,A
+39,OH,Ohio,147,39147,Seneca County,01074086,H1,A
+39,OH,Ohio,149,39149,Shelby County,01074087,H1,A
+39,OH,Ohio,151,39151,Stark County,01065576,H1,A
+39,OH,Ohio,153,39153,Summit County,01074088,H1,A
+39,OH,Ohio,155,39155,Trumbull County,01074089,H1,A
+39,OH,Ohio,157,39157,Tuscarawas County,01074090,H1,A
+39,OH,Ohio,159,39159,Union County,01074091,H1,A
+39,OH,Ohio,161,39161,Van Wert County,01074092,H1,A
+39,OH,Ohio,163,39163,Vinton County,01074093,H1,A
+39,OH,Ohio,165,39165,Warren County,01074094,H1,A
+39,OH,Ohio,167,39167,Washington County,01074095,H1,A
+39,OH,Ohio,169,39169,Wayne County,01074096,H1,A
+39,OH,Ohio,171,39171,Williams County,01074097,H1,A
+39,OH,Ohio,173,39173,Wood County,01074098,H1,A
+39,OH,Ohio,175,39175,Wyandot County,01074099,H1,A
+46,SD,South Dakota,003,46003,Aurora County,01266983,H1,A
+46,SD,South Dakota,005,46005,Beadle County,01266986,H1,A
+46,SD,South Dakota,007,46007,Bennett County,01265812,H1,A
+46,SD,South Dakota,009,46009,Bon Homme County,01266997,H1,A
+46,SD,South Dakota,011,46011,Brookings County,01265779,H1,A
+46,SD,South Dakota,013,46013,Brown County,01265785,H1,A
+46,SD,South Dakota,015,46015,Brule County,01265768,H1,A
+46,SD,South Dakota,017,46017,Buffalo County,01265767,H1,A
+46,SD,South Dakota,019,46019,Butte County,01265793,H1,A
+46,SD,South Dakota,021,46021,Campbell County,01266974,H1,A
+46,SD,South Dakota,023,46023,Charles Mix County,01266976,H1,A
+46,SD,South Dakota,025,46025,Clark County,01266985,H1,A
+46,SD,South Dakota,027,46027,Clay County,01265764,H1,A
+46,SD,South Dakota,029,46029,Codington County,01265791,H1,A
+46,SD,South Dakota,031,46031,Corson County,01265811,H1,A
+46,SD,South Dakota,033,46033,Custer County,01265788,H1,A
+46,SD,South Dakota,035,46035,Davison County,01266980,H1,A
+46,SD,South Dakota,037,46037,Day County,01265790,H1,A
+46,SD,South Dakota,039,46039,Deuel County,01265781,H1,A
+46,SD,South Dakota,041,46041,Dewey County,01266994,H1,A
+46,SD,South Dakota,043,46043,Douglas County,01266978,H1,A
+46,SD,South Dakota,045,46045,Edmunds County,01266972,H1,A
+46,SD,South Dakota,047,46047,Fall River County,01265787,H1,A
+46,SD,South Dakota,049,46049,Faulk County,01265760,H1,A
+46,SD,South Dakota,051,46051,Grant County,01265782,H1,A
+46,SD,South Dakota,053,46053,Gregory County,01265765,H1,A
+46,SD,South Dakota,055,46055,Haakon County,01266988,H1,A
+46,SD,South Dakota,057,46057,Hamlin County,01265766,H1,A
+46,SD,South Dakota,059,46059,Hand County,01265783,H1,A
+46,SD,South Dakota,061,46061,Hanson County,01266979,H1,A
+46,SD,South Dakota,063,46063,Harding County,01265792,H1,A
+46,SD,South Dakota,065,46065,Hughes County,01265774,H1,A
+46,SD,South Dakota,067,46067,Hutchinson County,01265771,H1,A
+46,SD,South Dakota,069,46069,Hyde County,01266984,H1,A
+46,SD,South Dakota,071,46071,Jackson County,01265794,H1,A
+46,SD,South Dakota,073,46073,Jerauld County,01265778,H1,A
+46,SD,South Dakota,075,46075,Jones County,01266981,H1,A
+46,SD,South Dakota,077,46077,Kingsbury County,01265780,H1,A
+46,SD,South Dakota,079,46079,Lake County,01265776,H1,A
+46,SD,South Dakota,081,46081,Lawrence County,01266996,H1,A
+46,SD,South Dakota,083,46083,Lincoln County,01265769,H1,A
+46,SD,South Dakota,085,46085,Lyman County,01265789,H1,A
+46,SD,South Dakota,087,46087,McCook County,01265773,H1,A
+46,SD,South Dakota,089,46089,McPherson County,01265762,H1,A
+46,SD,South Dakota,091,46091,Marshall County,01265759,H1,A
+46,SD,South Dakota,093,46093,Meade County,01266991,H1,A
+46,SD,South Dakota,095,46095,Mellette County,01267177,H1,A
+46,SD,South Dakota,097,46097,Miner County,01265777,H1,A
+46,SD,South Dakota,099,46099,Minnehaha County,01265772,H1,A
+46,SD,South Dakota,101,46101,Moody County,01265775,H1,A
+46,SD,South Dakota,102,46102,Oglala Lakota County,01266992,H1,A
+46,SD,South Dakota,103,46103,Pennington County,01266995,H1,A
+46,SD,South Dakota,105,46105,Perkins County,01266990,H1,A
+46,SD,South Dakota,107,46107,Potter County,01265761,H1,A
+46,SD,South Dakota,109,46109,Roberts County,01265786,H1,A
+46,SD,South Dakota,111,46111,Sanborn County,01266977,H1,A
+46,SD,South Dakota,115,46115,Spink County,01266987,H1,A
+46,SD,South Dakota,117,46117,Stanley County,01266998,H1,A
+46,SD,South Dakota,119,46119,Sully County,01266982,H1,A
+46,SD,South Dakota,121,46121,Todd County,01266989,H1,A
+46,SD,South Dakota,123,46123,Tripp County,01265784,H1,A
+46,SD,South Dakota,125,46125,Turner County,01265770,H1,A
+46,SD,South Dakota,127,46127,Union County,01265763,H1,A
+46,SD,South Dakota,129,46129,Walworth County,01266973,H1,A
+46,SD,South Dakota,135,46135,Yankton County,01266975,H1,A
+46,SD,South Dakota,137,46137,Ziebach County,01266993,H1,A
+55,WI,Wisconsin,001,55001,Adams County,01581060,H1,A
+55,WI,Wisconsin,003,55003,Ashland County,01581061,H1,A
+55,WI,Wisconsin,005,55005,Barron County,01581062,H1,A
+55,WI,Wisconsin,007,55007,Bayfield County,01581063,H1,A
+55,WI,Wisconsin,009,55009,Brown County,01581064,H1,A
+55,WI,Wisconsin,011,55011,Buffalo County,01581065,H1,A
+55,WI,Wisconsin,013,55013,Burnett County,01581066,H1,A
+55,WI,Wisconsin,015,55015,Calumet County,01581067,H1,A
+55,WI,Wisconsin,017,55017,Chippewa County,01581068,H1,A
+55,WI,Wisconsin,019,55019,Clark County,01581069,H1,A
+55,WI,Wisconsin,021,55021,Columbia County,01581070,H1,A
+55,WI,Wisconsin,023,55023,Crawford County,01581071,H1,A
+55,WI,Wisconsin,025,55025,Dane County,01581072,H1,A
+55,WI,Wisconsin,027,55027,Dodge County,01581073,H1,A
+55,WI,Wisconsin,029,55029,Door County,01581074,H1,A
+55,WI,Wisconsin,031,55031,Douglas County,01581075,H1,A
+55,WI,Wisconsin,033,55033,Dunn County,01581076,H1,A
+55,WI,Wisconsin,035,55035,Eau Claire County,01581077,H1,A
+55,WI,Wisconsin,037,55037,Florence County,01581078,H1,A
+55,WI,Wisconsin,039,55039,Fond du Lac County,01581079,H1,A
+55,WI,Wisconsin,041,55041,Forest County,01581080,H1,A
+55,WI,Wisconsin,043,55043,Grant County,01581081,H1,A
+55,WI,Wisconsin,045,55045,Green County,01581082,H1,A
+55,WI,Wisconsin,047,55047,Green Lake County,01581083,H1,A
+55,WI,Wisconsin,049,55049,Iowa County,01581084,H1,A
+55,WI,Wisconsin,051,55051,Iron County,01581085,H1,A
+55,WI,Wisconsin,053,55053,Jackson County,01581086,H1,A
+55,WI,Wisconsin,055,55055,Jefferson County,01581087,H1,A
+55,WI,Wisconsin,057,55057,Juneau County,01581088,H1,A
+55,WI,Wisconsin,059,55059,Kenosha County,01581089,H1,A
+55,WI,Wisconsin,061,55061,Kewaunee County,01581090,H1,A
+55,WI,Wisconsin,063,55063,La Crosse County,01581091,H1,A
+55,WI,Wisconsin,065,55065,Lafayette County,01581092,H1,A
+55,WI,Wisconsin,067,55067,Langlade County,01581093,H1,A
+55,WI,Wisconsin,069,55069,Lincoln County,01581094,H1,A
+55,WI,Wisconsin,071,55071,Manitowoc County,01581095,H1,A
+55,WI,Wisconsin,073,55073,Marathon County,01581096,H1,A
+55,WI,Wisconsin,075,55075,Marinette County,01581097,H1,A
+55,WI,Wisconsin,077,55077,Marquette County,01581098,H1,A
+55,WI,Wisconsin,078,55078,Menominee County,01581099,H1,A
+55,WI,Wisconsin,079,55079,Milwaukee County,01581100,H1,A
+55,WI,Wisconsin,081,55081,Monroe County,01581101,H1,A
+55,WI,Wisconsin,083,55083,Oconto County,01581102,H1,A
+55,WI,Wisconsin,085,55085,Oneida County,01581103,H1,A
+55,WI,Wisconsin,087,55087,Outagamie County,01581104,H1,A
+55,WI,Wisconsin,089,55089,Ozaukee County,01581105,H1,A
+55,WI,Wisconsin,091,55091,Pepin County,01581106,H1,A
+55,WI,Wisconsin,093,55093,Pierce County,01581107,H1,A
+55,WI,Wisconsin,095,55095,Polk County,01581108,H1,A
+55,WI,Wisconsin,097,55097,Portage County,01581109,H1,A
+55,WI,Wisconsin,099,55099,Price County,01581110,H1,A
+55,WI,Wisconsin,101,55101,Racine County,01581111,H1,A
+55,WI,Wisconsin,103,55103,Richland County,01581112,H1,A
+55,WI,Wisconsin,105,55105,Rock County,01581113,H1,A
+55,WI,Wisconsin,107,55107,Rusk County,01581114,H1,A
+55,WI,Wisconsin,109,55109,St. Croix County,01581833,H1,A
+55,WI,Wisconsin,111,55111,Sauk County,01581115,H1,A
+55,WI,Wisconsin,113,55113,Sawyer County,01581116,H1,A
+55,WI,Wisconsin,115,55115,Shawano County,01581117,H1,A
+55,WI,Wisconsin,117,55117,Sheboygan County,01581118,H1,A
+55,WI,Wisconsin,119,55119,Taylor County,01581119,H1,A
+55,WI,Wisconsin,121,55121,Trempealeau County,01581120,H1,A
+55,WI,Wisconsin,123,55123,Vernon County,01581121,H1,A
+55,WI,Wisconsin,125,55125,Vilas County,01581122,H1,A
+55,WI,Wisconsin,127,55127,Walworth County,01581123,H1,A
+55,WI,Wisconsin,129,55129,Washburn County,01581124,H1,A
+55,WI,Wisconsin,131,55131,Washington County,01581125,H1,A
+55,WI,Wisconsin,133,55133,Waukesha County,01581126,H1,A
+55,WI,Wisconsin,135,55135,Waupaca County,01581127,H1,A
+55,WI,Wisconsin,137,55137,Waushara County,01581128,H1,A
+55,WI,Wisconsin,139,55139,Winnebago County,01581129,H1,A
+55,WI,Wisconsin,141,55141,Wood County,01581130,H1,A

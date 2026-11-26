@@ -1,0 +1,2 @@
+# Track the 80 MB Census county boundary zip via Git LFS (within 1 GB free quota)
+data/raw/county_boundaries/tl_2024_us_county.zip filter=lfs diff=lfs merge=lfs -text
