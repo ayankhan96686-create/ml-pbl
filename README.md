@@ -27,7 +27,7 @@ ml-pbl/
 1. **Clone the repository (with Git LFS for the 80 MB county boundary ZIP):**
    ```bash
    git lfs install
-   git clone https://github.com/ayankhan96686-create/ml-pbl.git
+   git -c http.version=HTTP/1.1 clone --depth 1 https://github.com/ayankhan96686-create/ml-pbl.git
    cd ml-pbl
    ```
 
